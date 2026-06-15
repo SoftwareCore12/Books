@@ -4,25 +4,23 @@ MICROCONTROLLERS :-
 3: The AVR Microntroller and Embedded systems - Muhammad Ali Mazidi, Sarmad Naimi
 4: Arduino - Internet
 5: The STM32F103 ARM Microcontroller and Embedded systems - Muhammad Ali Mazidi, Sarmad Naimi
-6: Mastering the FreeRTOS real time kernel - Richard Barry
 
 ELECTRONICS :-
-1: Introductory circuit analysis - Robert L. Boylestad
-2: Circuit theory analysis and synthesis - Abhijit Chakrabarti
-3: Electronic devices and circuit theory - Robert L. Boylestad, Louis Nashelsky
+1: Introductory Circuit Analysis - Robert L. Boylestad
+2: Circuit Theory Analysis and Synthesis - Abhijit Chakrabarti
+3: Electronic Devices and Circuit theory - Robert L. Boylestad, Louis Nashelsky
 
 CONTROL SYSTEMS :-
-1: Contols systems engineering - I.J. Nagrath, M.Gopal
+1: Control systems Engineering - I.J. Nagrath, M.Gopal
 
 MICROWAVE :- 
 1: Electromagnetic Fields and Waves - S. Salivahanan, S. Karthie 
 2: Microwave Engineering - Annapurna Das, Sisir K. Das
 
 DIGITAL SIGNAL PROCESSING :-
-1: Signals and systems - A.Nagoor Kani
-2: Signals and systems - Tarun Kumar Rawat
-3: Digital signal processing - Tarun Kumar Rawat
-4: MATLAB - Amos Gilat
+1: Signals and Systems - Tarun Kumar Rawat
+2: Digital Signal Processing - Tarun Kumar Rawat
+3: MATLAB - Amos Gilat
 
 COMMUNICATION :-
 1: Communication Systems (Analog and Digital) - Dr. Sanjay Sharma
@@ -35,4 +33,4 @@ PHYSICS :-
 1: Understanding Physics - D.C. Pandey
 
 ENGLISH :-
-1: English grammar and Composition - S.C. Gupta
+1: English Grammar and Composition - S.C. Gupta
