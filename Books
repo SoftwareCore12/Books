@@ -1,27 +1,12 @@
 MICROCONTROLLERS :-
 1: C in depth - S.K. Srivastava, Deepali Srivastava
 2: The 8051 Microcontroller and Embedded Systems - Muhammad Ali Mazidi, Rolin D. Mckinlay
-3: PIC Microcontroller and Embedded Systems - Muhammad Ali Mazidi, Rolin D. Mckinlay
-4: The AVR Microntroller and Embedded Systems - Muhammad Ali Mazidi, Sarmad Naimi
-5: Arduino - Internet
-6: The STM32F103 ARM Microcontroller and Embedded Systems - Muhammad Ali Mazidi, Sarmad Naimi
-7: Mastering the FreeRTOS Real Time Kernel - Richard Barry
+3: The STM32F103 ARM Microcontroller and Embedded Systems
 
 ELECTRONICS :-
 1: Introductory Circuit Analysis - Robert L. Boylestad
 2: Circuit Theory Analysis and Synthesis - Abhijit Chakrabarti
 3: Electronic Devices and Circuit Theory - Robert L. Boylestad, Louis Nashelsky
-
-DIGITAL ELECTRONICS :-
-1: Digital Electronics Principles and Integrated Circuits - Anil K. Maini
-
-CONTROL SYSTEMS :-
-1: Control Systems Engineering - I.J. Nagrath, M.Gopal
-
-MICROWAVE :- 
-1: Electromagnetic Fields and Waves - S. Salivahanan, S. Karthie 
-2: Microwave Engineering - Annapurna Das, Sisir K. Das
-3: Antennas and Wave Propagation - A.R. Harish, M. Sachidananda
 
 MATLAB:-
 1: MATLAB An Introduction with Applications - Amos Gilat
@@ -29,9 +14,6 @@ MATLAB:-
 DIGITAL SIGNAL PROCESSING :-
 1: Signals and Systems - Tarun Kumar Rawat
 2: Digital Signal Processing - Tarun Kumar Rawat
-
-COMMUNICATION :-
-1: Communication Systems (Analog and Digital) - Dr. Sanjay Sharma
 
 MATHEMATICS :- 
 1: Fundamentals of Mathematics for IIT-JEE main and advanced - Sanjay Mishra
