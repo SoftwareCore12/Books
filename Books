@@ -17,17 +17,21 @@ LINUX:-
 ELECTRONICS :-
 1: Introductory Circuit Analysis - Robert L. Boylestad
 2: Circuit Theory Analysis and Synthesis - Abhijit Chakrabarti
-3: Electronic Devices and Circuit Theory - Robert L. Boylestad, Louis Nashelsky
+3: The Analysis and Design Of Linear Circuits - Roland E. Thomas, Albert J. Rosa
+4: Electronic Devices and Circuit Theory - Robert L. Boylestad, Louis Nashelsky
+5: Microelectronic Circuits - Adel S. Sedra, Kenneth C. Smith
+6: Op-Amps and Linear ICs - Ramakant A Gayakwad
 
 DIGITAL ELECTRONICS:-
 1: Digital Electronics Principles and Integrated Circuits - Anil K. Maini
 
 CONTROL SYSTEMS:- 
 1: Control Systems Engineering - I.J. Nagrath, M. Gopal
+2: Digital Control and State Variable Methods - M. Gopal
 
 MICROWAVE:-
 1: Electromagnetic Fields and Waves - S. Salivahanan, S. Karthie
-2: Microwave Engineering - Annapurna Das, Sisir K. Das
+2: Microwave Engineering - Sushrut Das
 
 MATLAB:-
 1: MATLAB An Introduction with Applications - Amos Gilat
@@ -35,9 +39,12 @@ MATLAB:-
 DIGITAL SIGNAL PROCESSING :-
 1: Signals and Systems - Tarun Kumar Rawat
 2: Digital Signal Processing - Tarun Kumar Rawat
+3: Linear Systems and Signals - B.P. Lathi, Roger Green
+4: Essentials of Digital Signal Processing - B.P. Lathi, Roger Green
 
 COMMUNICATION:- 
 1: Communication Systems (Analog and Digital) - Dr. Sanjay Sharma
+2: Modern Digital and Analog Communication Systems - B.P. Lathi, Zhi Ding
 
 MATHEMATICS :- 
 1: Fundamentals of Mathematics for IIT-JEE main and advanced - Sanjay Mishra
