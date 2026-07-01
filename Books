@@ -4,30 +4,17 @@ MICROCONTROLLERS :-
 3: The AVR Microcontroller and Embedded Systems - Muhammad Ali Mazidi, Sarmad Naimi
 4: Arduino - Internet
 5: The STM32F103 ARM Microcontroller and Embedded Systems - Muhammad Ali Mazidi, Sarmad Naimi
-6: Mastering the FreeRTOS Real Time Kernel - Richard Barry
-
-LINUX:- 
-1: Linux Command Line and Shell Scripting - Richard Blum, Christine Bresnahan
-2: Managing Projects with GNU Make - Robert Mecklenburg
-3: Linux System Programming - Robert Love
-4: Linux Device Drivers - Jonathan Corbet, Alessandro Rubini
-5: Writing Linux Device Drivers - Jerry Cooperstein
-6: Linux Kernel Development - Robert Love
 
 ELECTRONICS :-
 1: Introductory Circuit Analysis - Robert L. Boylestad
 2: Circuit Theory Analysis and Synthesis - Abhijit Chakrabarti
-3: The Analysis and Design Of Linear Circuits - Roland E. Thomas, Albert J. Rosa
-4: Electronic Devices and Circuit Theory - Robert L. Boylestad, Louis Nashelsky
-5: Microelectronic Circuits - Adel S. Sedra, Kenneth C. Smith
-6: Op-Amps and Linear ICs - Ramakant A Gayakwad
+3: Electronic Devices and Circuit Theory - Robert L. Boylestad, Louis Nashelsky
 
 DIGITAL ELECTRONICS:-
 1: Digital Electronics Principles and Integrated Circuits - Anil K. Maini
 
 CONTROL SYSTEMS:- 
 1: Control Systems Engineering - I.J. Nagrath, M. Gopal
-2: Digital Control and State Variable Methods - M. Gopal
 
 MICROWAVE:-
 1: Electromagnetic Fields and Waves - S. Salivahanan, S. Karthie
@@ -39,12 +26,9 @@ MATLAB:-
 DIGITAL SIGNAL PROCESSING :-
 1: Signals and Systems - Tarun Kumar Rawat
 2: Digital Signal Processing - Tarun Kumar Rawat
-3: Linear Systems and Signals - B.P. Lathi, Roger Green
-4: Essentials of Digital Signal Processing - B.P. Lathi, Roger Green
 
 COMMUNICATION:- 
 1: Communication Systems (Analog and Digital) - Dr. Sanjay Sharma
-2: Modern Digital and Analog Communication Systems - B.P. Lathi, Zhi Ding
 
 MATHEMATICS :- 
 1: Fundamentals of Mathematics for IIT-JEE main and advanced - Sanjay Mishra
