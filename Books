@@ -4,6 +4,15 @@ MICROCONTROLLERS :-
 3: The AVR Microcontroller and Embedded Systems - Muhammad Ali Mazidi, Sarmad Naimi
 4: Arduino - Internet
 5: The STM32F103 ARM Microcontroller and Embedded Systems - Muhammad Ali Mazidi, Sarmad Naimi
+6: Mastering the FreeRTOS Real Time Kernel - Richard Barry
+7: FreeRTOS A Practical Approach with Arduino - Max Back
+
+LINUX:- 
+1: Linux Command Line and Shell Scripting - Richard Blum, Christine Bresnahan
+2: Managing Projects with GNU Make - Robert Mecklenburg
+3: Linux System Programming - Robert Love
+4: Linux Device Drivers - Jonathan Corbet, Alessandro Rubini
+5: Embedded Linux Systems with the Yocto Project - Rudolf J. Streif
 
 ELECTRONICS :-
 1: Introductory Circuit Analysis - Robert L. Boylestad
