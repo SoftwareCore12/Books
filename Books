@@ -4,19 +4,23 @@ MICROCONTROLLERS :-
 3: The AVR Microcontroller and Embedded Systems - Muhammad Ali Mazidi, Sarmad Naimi
 4: Arduino - Internet
 5: The STM32F103 ARM Microcontroller and Embedded Systems - Muhammad Ali Mazidi, Sarmad Naimi
+6: Mastering the FreeRTOS Real Time Kernel - Richard Barry
 
 ENGINEERING :-
-1: Introductory Circuit Analysis - Robert L. Boylestad
-2: Circuit Theory Analysis and Synthesis - Abhijit Chakrabarti
-3: Electronic Devices and Circuit Theory - Robert L. Boylestad, Louis Nashelsky
-4: Microelectronic Circuits - Adel S. Sedra, Kenneth C. Smith
-5: Op-Amps and Linear ICs - Ramakant A. Gayakwad
-6: MATLAB An Introduction with Applications - Amos Gilat
-6: Signals and Systems - Tarun Kumar Rawat
-7: Digital Signal Processing - Tarun Kumar Rawat
-8: Linear Systems and Signals - B.P. Lathi, Roger Green
-9: Essentials of Digital Signal Processing - B.P. Lathi
-10: Communication Systems (Analog and Digital) - Dr. Sanjay Sharma
+1:  Introductory Circuit Analysis - Robert L. Boylestad
+2:  Circuit Theory Analysis and Synthesis - Abhijit Chakrabarti
+3:  Electronic Devices and Circuit Theory - Robert L. Boylestad, Louis Nashelsky
+4:  Microelectronic Circuits - Adel S. Sedra, Kenneth C. Smith
+5:  Op-Amps and Linear ICs - Ramakant A. Gayakwad
+6:  Design of Analog Filters - Rolf Schaumann, Mac E. Van Valkenburg
+7:  Digital Electronics Principles and ICs - Anil K. Maini
+8:  MATLAB An Introduction with Applications - Amos Gilat
+9:  Signals and Systems - Tarun Kumar Rawat
+10: Digital Signal Processing - Tarun Kumar Rawat
+11: Linear Systems and Signals - B.P. Lathi, Roger Green
+12: Essentials of Digital Signal Processing - B.P. Lathi
+13: Communication Systems (Analog and Digital) - Dr. Sanjay Sharma
+14: Modern Digital and Analog Communication Systems - B.P. Lathi, Zhi Ding
 
 MATHEMATICS & PHYSICS :- 
 1: Fundamentals of Mathematics for IIT-JEE main and advanced - Sanjay Mishra
