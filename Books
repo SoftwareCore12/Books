@@ -1,8 +1,6 @@
 MICROCONTROLLER -
 C in Depth - S.K. Srivastava, Deepali Srivastava
 The 8051 Microcontroller and Embedded Systems - Muhammad Ali Mazidi, Rolin D. Mckinlay
-The AVR Microcontroller and Embedded Systems - Muhammad Ali Mazidi, Sarmad Naimi
-Arduino - Internet
 The STM32F103 ARM Microcontroller and Embedded Systems - Muhammad Ali Mazidi, Sarmad Naimi
 
 ENGINEERING -
@@ -10,10 +8,6 @@ Introductory Circuit Analysis - Robert L. Boylestad
 Circuit Theory Analysis and Synthesis - Abhijit Chakrabarti
 Electronic Devices and Circuit Theory - Robert L. Boylestad, Louis Nashelsky
 Digital Electronics: Principles and Integrated Circuits - Anil K. Maini
-Control Systems Engineering - I.J. Nagrath, M. Gopal
-Electromagnetic Fields and Waves - S. Salivahanan, S. Karthie
-Microwave Engineering - Annapurna Das, Sisir K. Das
-Antenna and Wave Propagation - A.K. Gautam
 Getting Started with MATLAB - Rudra Pratap
 Signals and Systems - Tarun Kumar Rawat
 Digital Signal Processing - Tarun Kumar Rawat
@@ -21,5 +15,4 @@ Communication Systems ( Analog and Digital ) - Dr. Sanjay Sharma
 
 MATHEMATICS & PHYSICS -
 Fundamentals of Mathematics - Sanjay Mishra
-Calculus Early Tanscendentals - Howard Anton, Stephen Davis
 Understanding Physics - D.C. Pandey
