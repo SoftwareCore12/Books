@@ -8,21 +8,22 @@ The STM32F103 ARM Microcontroller and Embedded Systems - Muhammad Ali Mazidi, Sa
 ENGINEERING -
 Introductory Circuit Analysis - Robert L. Boylestad
 Fundamentals of Electric Circuits - Charles K. Alexander, Matthew N.O. Sadiku
+Pulse and Digital Circuits - Venkata Rao K., Rama Sudha K.
 Electronic Devices and Circuit Theory - Robert L. Boylestad, Louis Nashelsky
 Microelectronic Circuits - Adel S. Sedra, Kenneth C. Smith
 Op-Amps and Linear ICs - Ramakant A. Gayakwad
 Analog Filter Design - Rolf Schaumann, Mac E. Van Valkenburg
-Digital Electronics: Principles and ICs - Anil K. Maini
-Control Systems Enguneering - Norman S. Nise
-Elements of Electromagnetics - Matthew N.O. Sadiku
-Microwave Engineering - Annapurna das, Sisir K. Das
+Verilog HDL - Samir Palnitkar
+Fundamentals of Digital Logic with Verilog Design - Stephen Brown, Zvonko Vranesic
 Getting Started with MATLAB - Rudra Pratap
 Signals and Systems - Tarun Kumar Rawat
 Digital Signal Processing - Tarun Kumar Rawat
+Linear Systems and Signals - B.P. Lathi, Roger Green
+Essentials of Digital Signal Processing - B.P. Lathi, Roger Green
 Communication Systems ( Analog and Digital ) - Dr. Sanjay Sharma
 Communication Systems - P. Ramakrishna Rao
+Modern Digital and Analog Communication Systems - B.P. Lathi, Zhi Ding
 
 MATHEMATICS & PHYSICS -
 Fundamentals of Mathematics - Sanjay Mishra
-Thomas' Calculus - George B. Thomas, Jr. , Maurice D. Weir
 Understanding Physics - D.C. Pandey
