@@ -1,10 +1,19 @@
 MICROCONTROLLER -
 C in Depth - S.K. Srivastava, Deepali Srivastava
 The 8051 Microcontroller and Embedded Systems - Muhammad Ali Mazidi, Rolin D. Mckinlay
+PIC Microcontroller and Embedded Systems - Muhammad Ali Mazidi, Rolin D. Mckinlay 
 The AVR Microcontroller and Embedded Systems - Muhammad Ali Mazidi, Sarmad Naimi
 Arduino - Internet
 The STM32F103 ARM Microcontroller and Embedded Systems - Muhammad Ali Mazidi, Sarmad Naimi
 Mastering the FreeRTOS Real Time Kernel - Richard Barry
+
+LINUX- 
+Linux Command Line and Shell Scripting - Richard Blum, Christine Bresnahan
+GNU Make - Robert Mecklenburg
+Linux System Programming - Robert Love
+Linux Device Driver - Jonathan Corbet, Alessandro Rubini
+Mastering Embedded Linux Programming - Chris Simmonds
+Linux Kernel Development - Robert Love
 
 ELECTRONICS -
 Introductory Circuit Analysis - Robert L. Boylestad
