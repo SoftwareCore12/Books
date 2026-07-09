@@ -6,6 +6,7 @@ The AVR Microcontroller and Embedded Systems - Muhammad Ali Mazidi, Sarmad Naimi
 Arduino - Internet
 The STM32F103 ARM Microcontroller and Embedded Systems - Muhammad Ali Mazidi, Sarmad Naimi
 Mastering the FreeRTOS Real Time Kernel - Richard Barry
+FreeRTOS A Practical Approach with Arduino - Max Back
 
 LINUX - 
 Linux Command Line and Shell Scripting - Richard Blum, Christine Bresnahan
@@ -13,6 +14,7 @@ GNU Make - Robert Macklenburg
 Linux System Programming - Robert Love
 Linux Device Drivers - Jonathan Corbet, Alessandro Rubini
 Mastering Embedded Linux Programming - Chris Simmonds
+Linux Kernel Development - Robert Love
 
 ENGINEERING -
 Introductory Circuit Analysis - Robert L. Boylestad
@@ -34,3 +36,4 @@ MATHEMATICS & PHYSICS -
 Fundamentals of Mathematics - Sanjay Mishra
 Thomas' Calculus - Maurice D. Weir, Joel Hass
 Understanding Physics - D.C. Pandey
+Acing the GATE - Anil K. Maini, Nakul Maini 
