@@ -4,6 +4,7 @@ The 8051 Microcontroller and Embedded Systems - Muhammad Ali Mazidi, Rolin D. Mc
 The AVR Microcontroller and Embedded Systems - Muhammad Ali Mazidi, Sarmad Naimi
 Arduino - Internet
 The STM32F103 ARM Microcontroller and Embedded Systems - Muhammad Ali Mazidi, Sarmad Naimi
+Mastering the FreeRTOS Real Time Kernel - Richard Barry
 
 ELECTRONICS -
 Introductory Circuit Analysis - Robert L. Boylestad
@@ -14,14 +15,22 @@ Microelectronics Circuit Analysis and Design - Donald A. Neamen
 Microelectronic Circuits - Adel S. Sedra, Kenneth C. Smith
 Op-Amps and Linear ICs - Ramakant A. Gayakwad
 Opamps and Linear ICs - David A. Bell
+Opamps and Linear ICs - Robert F. Coughlin, Frederick F. Driscoll
+Fundamentals of Digital Circuits - A. Anand Kumar
 
 DIGITAL SIGNAL PROCESSING -
 Getting Started with MATLAB - Rudra Pratap
 Signals and Systems - Tarun Kumar Rawat
 Digital Signal Processing - Tarun Kumar Rawat
-Signals and Systems - Alan V. Oppenheim, Alan S. Willsky
-Discrete-Time Signal Processing - Alan V. Oppenheim, Ronald W. Schafer
+Linear Systems and Signals - B.P. Lathi, Roger Green
+Essentials of Digital Processing - B.P. Lathi, Roger Green
+Digital Signal Processing - Thomas Holton
 Applied Digital Signal Processing - Dimitris Manolakis, Vinay Ingle
+
+COMMUNICATION - 
+Communication Systems (Analog and Digital) - Dr. Sanjay Sharma
+Communication Systems - P. Ramakrishna Rao
+Modern Digital and Analog Communication Systems - B.P. Lathi, Zhi Ding
 
 MATHEMATICS & PHYSICS -
 Fundamentals of Mathematics - Sanjay Mishra
