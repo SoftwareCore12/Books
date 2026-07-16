@@ -7,7 +7,6 @@ The STM32F103 ARM Microcontroller and Embedded Systems - Muhammad Ali Mazidi, Sa
 
 ELECTRONICS -
 Introductory Circuit Analysis - Robert L. Boylestad
-Engineering Circuit Analysis - William H. Hayt Jr., Jack E. Kemmerly
 Electric Circuits - James W. Nilsson
 Electronic Devices and Circuit Theory - Robert L. Boylestad, Louis Nashelsky
 Electronic Devices and Circuits - David A. Bell
@@ -15,19 +14,14 @@ Microelectronics Circuit Analysis and Design - Donald A. Neamen
 Microelectronic Circuits - Adel S. Sedra, Kenneth C. Smith
 Op-Amps and Linear ICs - Ramakant A. Gayakwad
 Opamps and Linear ICs - David A. Bell
-Opamps and Linear ICs - Robert F. Coughlin, Frederick F. Driscoll
 
 DIGITAL SIGNAL PROCESSING -
 Getting Started with MATLAB - Rudra Pratap
-Signals and Systems - A. Nagoor Kani
-Digital Signal Processing - A. Nagoor Kani
 Signals and Systems - Tarun Kumar Rawat
 Digital Signal Processing - Tarun Kumar Rawat
-Linear Systems and Signals - B.P. Lathi, Roger Green
-Essentials of Digital Processing - B.P. Lathi, Roger Green
-Digital Signal Processing - Thomas Holton
+Signals and Systems - Alan V. Oppenheim, Alan S. Willsky
+Discrete-Time Signal Processing - Alan V. Oppenheim, Ronald W. Schafer
 Applied Digital Signal Processing - Dimitris Manolakis, Vinay Ingle 
-Digital Signal Processing - John G. Proakis, Dimitris G. Manolakis
 
 MATHEMATICS & PHYSICS -
 Fundamentals of Mathematics - Sanjay Mishra
